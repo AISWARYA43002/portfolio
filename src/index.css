@@ -1,0 +1,5 @@
+@import "tailwindcss";
+html { scroll-behavior: smooth; }
+body { background:#05060f; color:#e6e8ff; font-family: 'Inter', system-ui, sans-serif; }
+.grad { background: linear-gradient(90deg,#7c5cff,#22d3ee); -webkit-background-clip:text; color:transparent; }
+.card { background:rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.1); backdrop-filter:blur(12px); border-radius:1rem; }
